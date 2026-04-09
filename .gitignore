@@ -169,4 +169,13 @@ pentestperf
 venv*
 
 .claude
-data/
+data/secrets.env
+.secrets
+*.pem
+*.key
+id_rsa
+.envrc
+node_modules/
+*.csv
+*.zip
+*.pcapng
